@@ -192,8 +192,8 @@ end
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 OrionLib:MakeNotification({
-	Name = "Hotbabe",
-	Content = "Yore is the best",
+	Name = "YoreAPI Injected!",
+	Content = "Made By by: sivylmao\n\n dsc.gg//yorebackup",
 	Image = "rbxassetid://4483362748",
 	Time = 5
 })
